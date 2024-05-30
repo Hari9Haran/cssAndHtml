@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  color:aliceblue;
+}
+img{
+  border-width:5px;
+  border:solid grey;
+  border-radius: 100%;
+  width:100%;
+}
+div{
+  width:50%;
+  margin-left:25%;
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+}
+p{
+  text-align: center;
+}
